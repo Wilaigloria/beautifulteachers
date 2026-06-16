@@ -5,7 +5,6 @@ export const SITE = {
   email: "hello@beautifulteachers.com",
 };
 
-export const whatsappLink = (message?: string) => {
-  const base = `https://wa.me/${SITE.whatsappNumber}`;
-  return message ? `${base}?text=${encodeURIComponent(message)}` : base;
+export const whatsappLink = (_message?: string) => {
+  return "https://wa.link/d42kmq";
 };
