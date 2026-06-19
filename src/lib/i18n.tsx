@@ -10,6 +10,7 @@ const en: Dict = {
   "nav.contact": "Contact",
   "nav.privacy": "Privacy",
   "nav.terms": "Terms",
+  "nav.refund": "Refund Policy",
   "cta.whatsapp": "Chat on WhatsApp",
   "cta.book": "Book a free lesson",
   "cta.viewTeachers": "Meet our teachers",
@@ -40,7 +41,7 @@ const en: Dict = {
   "teachers.title": "Meet a few of our teachers",
   "teachers.subtitle": "Each teacher is interviewed, certified, and reviewed by our team. Pick someone whose vibe matches yours.",
   "teachers.cta": "Chat about this teacher",
-  "teachers.t1.name": "Sophia",
+  "teachers.t1.name": "Elona Pearl",
   "teachers.t1.role": "Cambridge CELTA · 6 yrs",
   "teachers.t1.bio": "Specializes in business English and job interview prep. Patient, structured, full of useful expressions.",
   "teachers.t2.name": "Amara",
@@ -83,6 +84,8 @@ const en: Dict = {
   "privacy.updated": "Last updated: June 16, 2026",
   "terms.title": "Terms of Service",
   "terms.updated": "Last updated: June 16, 2026",
+  "refund.title": "Refund Policy",
+  "refund.updated": "Last updated: June 19, 2026",
 };
 
 const pt: Dict = {
@@ -91,6 +94,7 @@ const pt: Dict = {
   "nav.contact": "Contato",
   "nav.privacy": "Privacidade",
   "nav.terms": "Termos",
+  "nav.refund": "Política de Reembolso",
   "cta.whatsapp": "Falar no WhatsApp",
   "cta.book": "Aula experimental grátis",
   "cta.viewTeachers": "Conheça os professores",
@@ -121,7 +125,7 @@ const pt: Dict = {
   "teachers.title": "Conheça alguns dos nossos professores",
   "teachers.subtitle": "Cada professor é entrevistado, certificado e avaliado pela nossa equipe. Escolha quem combina com você.",
   "teachers.cta": "Conversar sobre este professor",
-  "teachers.t1.name": "Sophia",
+  "teachers.t1.name": "Elona Pearl",
   "teachers.t1.role": "Cambridge CELTA · 6 anos",
   "teachers.t1.bio": "Especialista em inglês para negócios e entrevistas de emprego. Paciente, organizada e cheia de expressões úteis.",
   "teachers.t2.name": "Amara",
@@ -164,6 +168,8 @@ const pt: Dict = {
   "privacy.updated": "Última atualização: 16 de junho de 2026",
   "terms.title": "Termos de Serviço",
   "terms.updated": "Última atualização: 16 de junho de 2026",
+  "refund.title": "Política de Reembolso",
+  "refund.updated": "Última atualização: 19 de junho de 2026",
 };
 
 const dicts: Record<Locale, Dict> = { en, pt };
