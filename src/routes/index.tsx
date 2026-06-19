@@ -4,10 +4,14 @@ import { SiteLayout } from "@/components/site/Layout";
 import { useI18n } from "@/lib/i18n";
 import { whatsappLink } from "@/lib/site";
 import heroImg from "@/assets/hero-teacher.jpg";
-import t1 from "@/assets/teacher-1.jpg";
-import t2 from "@/assets/teacher-2.jpg";
-import t3 from "@/assets/teacher-3.jpg";
-import t4 from "@/assets/teacher-4.jpg";
+import t1Asset from "@/assets/teacher-1.jpg.asset.json";
+import t2Asset from "@/assets/teacher-2.jpg.asset.json";
+import t3Asset from "@/assets/teacher-3.jpg.asset.json";
+import t4Asset from "@/assets/teacher-4.jpg.asset.json";
+const t1 = t1Asset.url;
+const t2 = t2Asset.url;
+const t3 = t3Asset.url;
+const t4 = t4Asset.url;
 
 export const Route = createFileRoute("/")({
   head: () => ({

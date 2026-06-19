@@ -35,6 +35,7 @@ export function Footer() {
           <ul className="mt-4 space-y-2 text-sm">
             <li><Link to="/privacy" className="hover:text-primary">{t("nav.privacy")}</Link></li>
             <li><Link to="/terms" className="hover:text-primary">{t("nav.terms")}</Link></li>
+            <li><Link to="/refund" className="hover:text-primary">{t("nav.refund")}</Link></li>
           </ul>
         </div>
 
