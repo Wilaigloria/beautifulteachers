@@ -73,6 +73,20 @@ const en: Dict = {
   "contact.email.body": "Prefer writing? Send us a note.",
   "contact.hours.title": "Hours",
   "contact.hours.body": "Mon–Sat · 8:00–22:00 (BRT)",
+  "contact.form.name": "Your name",
+  "contact.form.email": "Your email",
+  "contact.form.message": "Your message",
+  "contact.form.send": "Send via WhatsApp",
+  "contact.form.error.required": "This field is required.",
+  "contact.form.error.email": "Please enter a valid email.",
+
+  "pricing.title": "Simple pricing",
+  "pricing.subtitle": "Pay only for the hours you learn.",
+  "pricing.price": "$5/hour",
+  "pricing.body": "Customers hire us and pay for classes per hour. Learn with our teachers for just $5 per hour.",
+  "pricing.cta": "Get started",
+
+  "manager.text": "Elona Pearl manages Beautiful Teachers.",
 
   "footer.tagline": "English lessons with teachers worth showing up for.",
   "footer.product": "Product",
