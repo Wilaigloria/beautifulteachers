@@ -153,12 +153,12 @@ const pt: Dict = {
   "teachers.t4.bio": "Foco em alunos intermediários que querem sair do platô e finalmente fluir.",
 
   "how.title": "Como funciona",
-  "how.s1.title": "Mande um oi no WhatsApp",
-  "how.s1.body": "Conta pra gente seu nível, seus objetivos e os horários que funcionam.",
-  "how.s2.title": "Indicamos 2 ou 3 professores",
-  "how.s2.body": "Veja os perfis e escolha quem você sentir mais conexão.",
-  "how.s3.title": "Comece a falar",
-  "how.s3.body": "Sua primeira aula de 20 minutos é por nossa conta. Sem cartão.",
+  "how.s1.title": "Escolha um professor",
+  "how.s1.body": "Navegue pelos perfis e escolha quem combina com você.",
+  "how.s2.title": "Fale com a gente",
+  "how.s2.body": "Mande uma mensagem no WhatsApp dizendo qual professor você gostou.",
+  "how.s3.title": "Fazemos a conexão",
+  "how.s3.body": "Conectamos você ao seu professor e agendamos sua primeira aula.",
 
   "cta.banner.title": "Sua primeira aula é grátis.",
   "cta.banner.body": "Mande uma mensagem e a gente te apresenta um professor hoje.",
