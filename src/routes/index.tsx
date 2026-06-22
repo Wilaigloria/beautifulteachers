@@ -33,7 +33,9 @@ function HomePage() {
       <Features />
       <TeachersPreview />
       <HowItWorks />
+      <Pricing />
       <CtaBanner />
+      <ManagerNote />
     </SiteLayout>
   );
 }
