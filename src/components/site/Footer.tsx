@@ -67,6 +67,7 @@ export function Footer() {
       <div className="border-t border-border">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-muted-foreground">
           <p>© {new Date().getFullYear()} {SITE.name}. {t("footer.rights")}</p>
+          <p>{t("manager.text")}</p>
           <p>Made with <span className="text-primary">♥</span> for learners in Brasil.</p>
         </div>
       </div>
