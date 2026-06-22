@@ -256,3 +256,40 @@ function CtaBanner() {
     </section>
   );
 }
+
+function Pricing() {
+  const { t } = useI18n();
+  return (
+    <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-24">
+      <div className="max-w-2xl mx-auto text-center">
+        <h2 className="font-display text-4xl sm:text-5xl font-semibold">{t("pricing.title")}</h2>
+        <p className="mt-4 text-muted-foreground text-lg">{t("pricing.subtitle")}</p>
+      </div>
+      <div className="mt-12 max-w-md mx-auto rounded-3xl border border-border bg-card p-10 text-center hover:shadow-pink transition-shadow">
+        <span className="grid h-14 w-14 place-items-center rounded-2xl bg-primary/10 mx-auto">
+          <Wallet className="h-7 w-7 text-primary" />
+        </span>
+        <p className="mt-6 font-display text-6xl font-semibold text-primary">{t("pricing.price")}</p>
+        <p className="mt-4 text-muted-foreground">{t("pricing.body")}</p>
+        <a
+          href={whatsappLink("Hi! I want to start learning English for $5/hour.")}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mt-8 inline-flex items-center justify-center gap-2 rounded-full bg-gradient-primary px-7 py-3.5 text-sm font-semibold text-primary-foreground shadow-pink hover:opacity-95"
+        >
+          <MessageCircle className="h-4 w-4" />
+          {t("pricing.cta")}
+        </a>
+      </div>
+    </section>
+  );
+}
+
+function ManagerNote() {
+  const { t } = useI18n();
+  return (
+    <section className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 pb-8 text-center">
+      <p className="text-sm text-muted-foreground">{t("manager.text")}</p>
+    </section>
+  );
+}
