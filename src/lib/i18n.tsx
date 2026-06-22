@@ -55,12 +55,12 @@ const en: Dict = {
   "teachers.t4.bio": "Focused on intermediate students breaking through the plateau into real fluency.",
 
   "how.title": "How it works",
-  "how.s1.title": "Say oi on WhatsApp",
-  "how.s1.body": "Tell us your level, your goals, and the times that work for you.",
-  "how.s2.title": "We match you with 2–3 teachers",
-  "how.s2.body": "Review their profiles and pick whoever feels right.",
-  "how.s3.title": "Start speaking",
-  "how.s3.body": "Your first 20-minute lesson is on us. No card needed.",
+  "how.s1.title": "Select a teacher",
+  "how.s1.body": "Browse our beautiful teachers and pick someone whose vibe matches yours.",
+  "how.s2.title": "Contact us",
+  "how.s2.body": "Reach out on WhatsApp and tell us which teacher you like.",
+  "how.s3.title": "We match you",
+  "how.s3.body": "We'll connect you with your beautiful teacher and get your first lesson scheduled.",
 
   "cta.banner.title": "Your first lesson is free.",
   "cta.banner.body": "Send us a message and we'll match you with a teacher today.",
